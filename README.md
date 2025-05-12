@@ -12,18 +12,19 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
  - Melakukan Feature Selection dan mendapatkan perbandingan hasil silhoute score = 0.71.
 ### Visualisasi Cluster
 ```
-<img width="559" alt="image" src="https://github.com/user-attachments/assets/0ee28533-139d-4dba-b3c5-a8837ac0c079" />
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/c025b550-7b6c-48ba-bf25-05576226f6e9" />
+
 ```
 ### Hasil Interpretasi Analisis Karakteristik Cluster 
-####Cluster 0:
+#### Cluster 0:
   - Rata-rata Tahun ke ikut sertaan: Tahun 2021
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): IPA
   - Analisis: Cluster ini mencakup provinsi yang belum terlalu maju dan masih perlu dukungan/perhatian lebih untuk masalah pendidikan,dan kemudian untuk cluster 0 ini bidang yang di ikuti mencakup tentang perhitungan alam seperti ipa dan matematika.
-####Cluster 1:
+#### Cluster 1:
   - Rata-rata Tahun ke ikut sertaan: 2020
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): IPS
   - Analisis: Cluster ini menunjukkan provinsi menengah tentang masalah pendidikan,dan bidang yang di ikuti mencakup tentang campuran antara hafalan dan perhitungan dimana ips dan matematika mendominasi.
-####Cluster 2:
+#### Cluster 2:
   - Rata-rata Tahun ke ikut sertaan: 2022
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): Matematika
   - Analisis: Cluster ini terdiri dari provinsi urban/maju seperti DKI Jakarta,Bali,Banten dan Sumbar,kemudian bidang yang di ikuti full tentang perhitungan yaitu matematika dan fisika.
