@@ -31,12 +31,10 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
 ## Klasifikasi
  - Klasifikasi berdasarkan cluster yang didapat.
  - Model Klasifikasi menggunakan Random Forest, dan SVM.
-```
- Random Forest
+### Random Forest
  - Mendapatkan hasil = 1.0
- SVM
+### SVM
  - Mendapatkan hasil = 0.99
-```
 ### Analisi Hasil Evaluasi
  - Berdasarkan hasil tunggin dan evaluasi yang diberikan,dapat dilihat bahwa setelah di tuning menggunakan randomized search menunjukkan bahwa angka recal di masing-masing target mengalami peningkatan yang artinya hasil tunning tersebut baik dan mengalami peningkatan.
  - Identifikasi kelemahan model, seperti:
