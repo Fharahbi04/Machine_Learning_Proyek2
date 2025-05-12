@@ -15,7 +15,6 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/0ee28533-139d-4dba-b3c5-a8837ac0c079" />
 ```
 ### Hasil Interpretasi Analisis Karakteristik Cluster 
-```
 ####Cluster 0:
   - Rata-rata Tahun ke ikut sertaan: Tahun 2021
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): IPA
@@ -28,14 +27,16 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
   - Rata-rata Tahun ke ikut sertaan: 2022
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): Matematika
   - Analisis: Cluster ini terdiri dari provinsi urban/maju seperti DKI Jakarta,Bali,Banten dan Sumbar,kemudian bidang yang di ikuti full tentang perhitungan yaitu matematika dan fisika.
-```
+
 ## Klasifikasi
  - Klasifikasi berdasarkan cluster yang didapat.
  - Model Klasifikasi menggunakan Random Forest, dan SVM.
-### Random Forest
+```
+ Random Forest
  - Mendapatkan hasil = 1.0
-### SVM
+ SVM
  - Mendapatkan hasil = 0.99
+```
 ### Analisi Hasil Evaluasi
  - Berdasarkan hasil tunggin dan evaluasi yang diberikan,dapat dilihat bahwa setelah di tuning menggunakan randomized search menunjukkan bahwa angka recal di masing-masing target mengalami peningkatan yang artinya hasil tunning tersebut baik dan mengalami peningkatan.
  - Identifikasi kelemahan model, seperti:
