@@ -12,6 +12,7 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
  - Melakukan Feature Selection dan mendapatkan perbandingan hasil silhoute score = 0.71.
 ### Visualisasi Cluster
 <img width="569" alt="image" src="https://github.com/user-attachments/assets/c025b550-7b6c-48ba-bf25-05576226f6e9" />
+
 ### Hasil Interpretasi Analisis Karakteristik Cluster 
 #### Cluster 0:
   - Rata-rata Tahun ke ikut sertaan: Tahun 2021
