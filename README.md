@@ -11,7 +11,9 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
  - Hasil Silhoute Score = 0.70.
  - Melakukan Feature Selection dan mendapatkan perbandingan hasil silhoute score = 0.71.
 ### Visualisasi Cluster
+```
 <img width="559" alt="image" src="https://github.com/user-attachments/assets/0ee28533-139d-4dba-b3c5-a8837ac0c079" />
+```
 ### Hasil Interpretasi Analisis Karakteristik Cluster 
 ```
 ####Cluster 0:
@@ -26,6 +28,7 @@ Proyek ini merupakan proyek yang sama seperti sebelumnya tetapi terdapat beberap
   - Rata-rata Tahun ke ikut sertaan: 2022
   - Rata-rata Bidang keikutsertaan (Geografi-Ipa): Matematika
   - Analisis: Cluster ini terdiri dari provinsi urban/maju seperti DKI Jakarta,Bali,Banten dan Sumbar,kemudian bidang yang di ikuti full tentang perhitungan yaitu matematika dan fisika.
+```
 ## Klasifikasi
  - Klasifikasi berdasarkan cluster yang didapat.
  - Model Klasifikasi menggunakan Random Forest, dan SVM.
